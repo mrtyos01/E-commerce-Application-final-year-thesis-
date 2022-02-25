@@ -1,5 +1,12 @@
-# E-commerce application (for the final year graduation project/thesis)
+# E-commerce application
+## (for the final year graduation project/thesis)
 
+## Authors
+Morteza Yosefy and
+Kibru Kuture
+
+
+# Instructions
 ## Please run npm install
 
 ### `npm install `
